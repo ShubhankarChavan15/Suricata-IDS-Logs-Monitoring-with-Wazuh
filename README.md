@@ -125,15 +125,17 @@ You have successfully integrated Suricata IDS with Wazuh SIEM to monitor real-ti
 ## Screenshots
 
 ## Suricata & Wazuh Lab Screenshots
+## Suricata & Wazuh Lab Screenshots
 
 ### 1. Suricata actively generating logs
-![Suricata actively generating logs](Suricata actively generating logs.png)
+![Suricata actively generating logs](Suricata%20actively%20generating%20logs.png)
 
 ### 2. Suricata logs reaching Wazuh Manager
-![Suricata logs reaching Wazuh Manager](Suricata logs reaching Wazuh Manager.png)
+![Suricata logs reaching Wazuh Manager](Suricata%20logs%20reaching%20Wazuh%20Manager.png)
 
 ### 3. Wazuh agent collecting eve.json
-![Wazuh agent collecting eve.json](Wazuh agent collecting eve.json.png)
+![Wazuh agent collecting eve.json](Wazuh%20agent%20collecting%20eve.json.png)
 
 ### 4. Wazuh Threat Hunting tab
-![Wazuh Threat Hunting tab](Wazuh Threat Hunting tab.png)
+![Wazuh Threat Hunting tab](Wazuh%20Threat%20Hunting%20tab.png)
+
