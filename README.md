@@ -119,3 +119,21 @@ sudo systemctl restart wazuh-manager
 
 ## Conclusion 
 You have successfully integrated Suricata IDS with Wazuh SIEM to monitor real-time network threat data from eve.json, including DNS and TLS logs. This integration enhances visibility into network-level activity and provides a strong foundation for intrusion detection, forensics, and threat hunting.
+
+---
+
+## Screenshots
+
+## Suricata & Wazuh Lab Screenshots
+
+### 1. Suricata actively generating logs
+![Suricata actively generating logs](Suricata actively generating logs.png)
+
+### 2. Suricata logs reaching Wazuh Manager
+![Suricata logs reaching Wazuh Manager](Suricata logs reaching Wazuh Manager.png)
+
+### 3. Wazuh agent collecting eve.json
+![Wazuh agent collecting eve.json](Wazuh agent collecting eve.json.png)
+
+### 4. Wazuh Threat Hunting tab
+![Wazuh Threat Hunting tab](Wazuh Threat Hunting tab.png)
