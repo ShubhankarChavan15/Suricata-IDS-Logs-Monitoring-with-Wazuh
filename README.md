@@ -125,7 +125,6 @@ You have successfully integrated Suricata IDS with Wazuh SIEM to monitor real-ti
 ## Screenshots
 
 ## Suricata & Wazuh Lab Screenshots
-## Suricata & Wazuh Lab Screenshots
 
 ### 1. Suricata actively generating logs
 ![Suricata actively generating logs](Suricata%20actively%20generating%20logs.png)
